@@ -2,6 +2,11 @@
 
  <H2>AUTHOR: MUHAMMAD ALI</H2>  
 
+<br>
+
+<h3>Tutorial no 2</h3>
+
+
 In C++, iostream is a header that allows programmers to perform input and output operations.
 <br>
 comment is a note that describe a source code/ comment cannot run by compiler
@@ -22,6 +27,7 @@ char
 <br>
 string
 <br>
+<h3>Variables in c++:</h3>
 Variables (storage container)
 <br>
 int a; (integer value ko store karta ha)
