@@ -1,4 +1,4 @@
-#ADVANCE C++ COURSE BEGINNERS TO ADVANCE 
+<h1>#ADVANCE C++ COURSE BEGINNERS TO ADVANCE</h1>  
 
  <H2>AUTHOR: MUHAMMAD ALI</H2>  
 
@@ -8,17 +8,56 @@ comment is a note that describe a source code/ comment cannot run by compiler
 <br>
 If you can use std as global, to phir ap ko input aur output ka sath use karnay ki zaroorat nhi, VICEVERSA
 <br>
-Tutorial no 2
+<h3>Tutorial no 2</h3>
+<br>
+<h3>Datatypes in c++:</h3>
+<br>
+int
+<br>
+float
+<br>
+bool
+<br>
+char
+<br>
+string
 <br>
 Variables (storage container)
 <br>
-int(integer value ko store karta ha)
+int a; (integer value ko store karta ha)
 <br>
-float(float value ko store karta ha)
+float a; (float value ko store karta ha)
 <br>
-char(chracters value ko store karta ha)
+char test; (chracters value ko store karta ha)
 <br>
-string(sring value ko store karta ha)
+string a; (sring value ko store karta ha)
 <br>
-bool(true aur false)
+bool test (true aur false)
+<br>
+<h2>tutorial 3</h2>
+<br>
+<h3>Assignment operators</h3>
+<br>
++=
+<br>
+-=
+<br>
+*=
+<br>
+/=
+<br>
+%=
+<br>
+
+<h3>Relational operators</h3>
+<br>
+==
+<br>
+!= (not equal)
+<br>
+<=
+<br>
+>=
+<br>
+
 
