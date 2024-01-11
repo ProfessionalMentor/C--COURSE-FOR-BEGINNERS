@@ -65,5 +65,19 @@ bool test (true aur false)
 <br>
 >=
 <br>
-
-
+<h3>Tutorial no 4</h3>
+control structures
+ <br>
+if statement
+ <br>
+if else statement, else if
+<br>
+<h3>Tutorial no 5</h3>
+ <br>
+Loops in c++
+ <br>
+while loop
+ <br>
+do while loop
+for loop
+<br>
