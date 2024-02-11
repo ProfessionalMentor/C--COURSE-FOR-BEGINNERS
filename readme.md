@@ -81,3 +81,10 @@ while loop
 do while loop
 for loop
 <br>
+<h3>Tutorial no 6</h3>
+<br>
+Funtction and its protypes
+ <br>
+<h3>Tutorial no 7</h3>
+<br>
+Arrays in c++
